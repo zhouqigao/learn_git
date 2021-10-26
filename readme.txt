@@ -13,5 +13,6 @@ bug fixed at dev branch
 <bug 001 fixed>
 
 developing ...<dev branch>
+prepare working before any steps
 step 1 at master branch
 step 2 at master branch
