@@ -7,4 +7,5 @@ new branch again
 quick and simple
 featuree2 solved
 no fast forward
+stash 1
 stash over
