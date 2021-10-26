@@ -11,7 +11,6 @@ stash 1
 stash over
 bug fixed at dev branch 
 <bug 001 fixed>
-
 developing ...<dev branch>
 prepare working before any steps
 step 1 at master branch
