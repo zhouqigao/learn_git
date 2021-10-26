@@ -4,4 +4,4 @@ Git tracks changes of files
 after remote add origin
 creating a new branch is quick.
 new branch again
-quick & simple
+quick and simple
