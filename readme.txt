@@ -5,3 +5,4 @@ after remote add origin
 creating a new branch is quick.
 new branch again
 quick and simple
+test feature2
