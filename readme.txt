@@ -6,3 +6,4 @@ creating a new branch is quick.
 new branch again
 quick and simple
 featuree2 solved
+no fast forward
