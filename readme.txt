@@ -19,3 +19,4 @@ step 3,4
 step 5 
 add pwd test
 test token
+del token
