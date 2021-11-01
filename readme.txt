@@ -18,3 +18,4 @@ step 2
 step 3,4
 step 5 
 add pwd test
+test token
